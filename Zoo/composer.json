@@ -1,0 +1,16 @@
+{
+    "name": "max/zoo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Max\\Zoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maksim Vinchenko",
+            "email": "volynretrashetyn@gmail.com"
+        }
+    ],
+    "require": {}
+}
